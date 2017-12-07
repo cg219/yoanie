@@ -11,5 +11,16 @@
     "manager"
   ],
   "author": "Clemente Gomez",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cg219/yoanie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cg219/yoanie/issues"
+  },
+  "homepage": "https://github.com/cg219/yoanie#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3"
+  }
 }
